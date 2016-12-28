@@ -1,0 +1,63 @@
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+	background: black;
+	color: #4F4F4F
+}
+img{
+	max-height: 50%;
+	max-width: 50;
+/*---------------------------------- ESTILOS --------------------------*/
+}
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+	margin-top: 50px;
+}
+.espacio-abajo{
+	margin-bottom: 30px;
+}
+.fuente-usada1{
+	font-family: 'Exo', sans-serif;
+}
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+.no-viñeta li{
+	list-style-type: none;
+}
+.se-gris{
+	background-color: grey;
+}
+.padding-largo{
+	padding: 5px 10px;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+}
+
+/* ----------------------------------- TAMAÑOS-----------*/
+.grande{
+	font-size: 6em;
+}
+.mediano{
+	font-size: 4em;
+}
+.pequeño{
+	font-size: 2.5em;
+}
+/* ----------------------------------- COLORES -------------------*/
+.verdoso{
+	color: #34606E
+}
+.rojo{
+	color: #A10B0B
+}
+.blanco{
+	color: white;
+}
+a{
+	color: #4F4F4F
+}
